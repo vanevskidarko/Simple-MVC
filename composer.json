@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "mvc\\": ["app/mvc/", "views/"]
+        }
+    },
+    "require": {
+        "smarty/smarty": "^4.3"
+    }
+}
